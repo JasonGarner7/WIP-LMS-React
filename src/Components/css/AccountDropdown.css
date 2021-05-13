@@ -1,0 +1,37 @@
+.dropdown {
+    position: fixed;
+    z-index: 1;
+    list-style-type: none;
+    right: 8px;
+    top: 64px;
+    background-color: white;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.username {
+    text-align: left;
+    padding: 5px;
+    color: dimgray;
+    border-bottom: 1px solid lightgray;
+}
+.profile-list-item {
+    text-align: left;
+    padding: 5px;
+    color: dimgray;
+}
+.profile-list-item:hover {
+    background-color: gainsboro;
+    background-size: auto;
+}
+.profile-list-item:active {
+    background-color: lightgray;
+}
+.profile-list-text {
+    display: block;
+    color: dimgray;
+}
+.profile-list-text:hover {
+    color: dimgray;
+}

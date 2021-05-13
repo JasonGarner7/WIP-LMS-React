@@ -1,0 +1,13 @@
+.assignments {
+    display: flex;
+    padding-top: 10px;
+}
+
+.side-panel {
+    padding-top: 10px;
+}
+.side-panel-item {
+    line-height: 60px !important;
+    width: 200px;
+    margin: 10px;
+}

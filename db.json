@@ -1,0 +1,418 @@
+{
+  "Teachers": [
+    {
+      "id": 1,
+      "firstName": "Arwen",
+      "lastName": "Undómiel",
+      "age": 32,
+      "userName": "arwen",
+      "password": "lordoftherings"
+    },
+    {
+      "id": 2,
+      "firstName": "Darth",
+      "lastName": "Vader",
+      "age": 55,
+      "userName": "darth",
+      "password": "deathstar"
+    }
+  ],
+  "Students": [
+    {
+      "id": 4281,
+      "firstName": "Sophia",
+      "lastName": "Rocha",
+      "age": "12",
+      "birthday": "Thu May 18 2017",
+      "grade": 9,
+      "gender": "female",
+      "email": "sophiarocha@gmail.com",
+      "phone": "+1 (893) 450-2597",
+      "address1": "526 Grafton Street",
+      "address2": "",
+      "city": "Hasty",
+      "state": "Kansas",
+      "zip": 1599,
+      "about": "hello",
+      "guardian1": "Sosa Yates",
+      "guardian2": "Holloway Bond",
+      "teacherId": 1,
+      "assigned": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 3855,
+      "firstName": "Herminia",
+      "lastName": "Porter",
+      "age": 14,
+      "birthday": "Sat Oct 30 1976",
+      "grade": 7,
+      "gender": "female",
+      "email": "herminiaporter@gmail.com",
+      "phone": "+1 (929) 600-2809",
+      "address1": "798 Quentin Street",
+      "address2": "",
+      "city": "Juntura",
+      "state": "District Of Columbia",
+      "zip": 3266,
+      "about": "Ut cupidatat anim aliquip incididunt deserunt duis consectetur. Tempor adipisicing esse nisi consectetur exercitation aliquip anim cupidatat exercitation. Id est exercitation pariatur excepteur sint ex. Magna ullamco velit sint nulla nisi est.\r\n",
+      "guardian1": "Tonia Shaw",
+      "guardian2": "Twila Hull",
+      "teacherId": 1,
+      "assigned": [
+        3
+      ]
+    },
+    {
+      "id": 1364,
+      "firstName": "Newman",
+      "lastName": "Santiago",
+      "age": 10,
+      "birthday": "Mon May 27 2013",
+      "grade": 10,
+      "gender": "Male",
+      "email": "newmansantiago@gmail.com",
+      "phone": "+1 (811) 489-3920",
+      "address1": "645 Frank Court",
+      "address2": "Apt 1",
+      "city": "Woodburn",
+      "state": "Mississippi",
+      "zip": 2971,
+      "about": "Lorem consectetur dolore eiusmod aliquip ipsum excepteur labore. Eu amet dolor deserunt sunt ipsum irure laborum exercitation. Voluptate minim ad laboris nostrud cillum dolore anim. Consectetur elit quis aliquip elit esse reprehenderit eu in enim dolor ipsum ex fugiat eu. Anim est ullamco ipsum fugiat nisi aliquip mollit ex.\r\n",
+      "guardian1": "Mitchell Barker",
+      "guardian2": "Lenore Morgan",
+      "teacherId": 1,
+      "assigned": [
+        3
+      ]
+    },
+    {
+      "id": 1724,
+      "firstName": "Janis",
+      "lastName": "Joplin",
+      "age": 18,
+      "birthday": "Mon Sep 12 1983",
+      "grade": 3,
+      "gender": "Female",
+      "email": "snowbeard@gmail.com",
+      "phone": "+1 (954) 425-2915",
+      "address1": "687 Taaffe Place",
+      "address2": "#4",
+      "city": "Tetherow",
+      "state": "Missouri",
+      "zip": 7039,
+      "about": "She makes great music, but not everyone loves it.",
+      "guardian1": "Elma Clemons",
+      "guardian2": "George Frye",
+      "teacherId": 2,
+      "assigned": [
+        2
+      ]
+    },
+    {
+      "id": 795,
+      "firstName": "Devin",
+      "lastName": "Paul",
+      "age": 14,
+      "birthday": "Wed Oct 24 2001",
+      "grade": 6,
+      "gender": "Male",
+      "email": "janispaul@gmail.com",
+      "phone": "+1 (865) 505-2301",
+      "address1": "445 Freeman Street",
+      "address2": "",
+      "city": "Brooktrails",
+      "state": "New York",
+      "zip": 2524,
+      "about": "Ipsum fugiat cillum mollit veniam laborum id cupidatat consequat reprehenderit voluptate. Aliqua eiusmod enim nisi sit irure non aute mollit nostrud qui dolore. Anim duis consectetur sit duis voluptate ipsum cillum duis sint officia minim. Qui id dolore non laboris nostrud occaecat mollit. Qui deserunt est minim magna do veniam adipisicing laboris excepteur nulla elit.\r\n",
+      "guardian1": "Lolita Haney",
+      "guardian2": "Maricela Holman",
+      "teacherId": 2,
+      "assigned": [
+        1
+      ]
+    },
+    {
+      "id": 1666,
+      "firstName": "Benjamin",
+      "lastName": "Jones",
+      "age": 16,
+      "birthday": "Sat Mar 01 1986",
+      "grade": 8,
+      "gender": "male",
+      "email": "benjaminpowers@gmail.com",
+      "phone": "+1 (966) 537-2946",
+      "address1": "339 Highland Place",
+      "address2": "",
+      "city": "Clarktown",
+      "state": "Puerto Rico",
+      "zip": 5587,
+      "about": "Dolor laborum aute adipisicing cillum ex et incididunt ad mollit sunt. Culpa est ipsum anim deserunt pariatur pariatur ad dolore nisi. Cillum culpa deserunt excepteur veniam et qui est aute quis occaecat sunt aliquip consequat incididunt. Nisi eiusmod duis eiusmod fugiat dolore non cillum commodo elit aute amet.\r\n",
+      "guardian1": "Bolton Baird",
+      "guardian2": "Benson Rowland",
+      "teacherId": 2,
+      "assigned": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 383,
+      "firstName": "Kris",
+      "lastName": "Weiss",
+      "age": 6,
+      "birthday": "Fri Nov 18 1983",
+      "grade": 6,
+      "gender": "female",
+      "email": "krisweiss@gmail.com",
+      "phone": "+1 (839) 532-2302",
+      "address1": "273 Bayview Place",
+      "address2": "",
+      "city": "Robinette",
+      "state": "Northern Mariana Islands",
+      "zip": 1881,
+      "about": "Esse dolore officia excepteur ad ea. Sit laboris minim laborum amet dolore officia. Pariatur nostrud enim sit officia aliqua non voluptate pariatur laborum nulla. Quis incididunt nostrud incididunt laborum dolor dolor velit cupidatat cupidatat voluptate.\r\n",
+      "guardian1": "Latisha Avila",
+      "guardian2": "Bonita Kim",
+      "teacherId": 2,
+      "assigned": [
+        1
+      ]
+    },
+    {
+      "id": 3716,
+      "firstName": "Maddox",
+      "lastName": "Sexton",
+      "age": 19,
+      "birthday": "Thu Apr 12 1984",
+      "grade": 8,
+      "gender": "male",
+      "email": "maddoxsexton@gmail.com",
+      "phone": "+1 (885) 537-2566",
+      "address1": "773 King Street",
+      "address2": "",
+      "city": "Chelsea",
+      "state": "Colorado",
+      "zip": 1940,
+      "about": "Et do laboris non cupidatat cillum anim. Irure sunt fugiat proident sint officia deserunt est occaecat reprehenderit cupidatat. Veniam irure voluptate id aliquip reprehenderit reprehenderit ipsum pariatur id. Non quis do enim anim labore quis culpa nisi non. Non veniam anim officia duis nisi sunt voluptate veniam dolore eu do. In laborum nisi laborum in velit sint tempor.\r\n",
+      "guardian1": "Stanley Morrow",
+      "guardian2": "Wanda Rasmussen",
+      "teacherId": 2,
+      "assigned": [
+        1
+      ]
+    },
+    {
+      "id": 3717,
+      "firstName": "Arthur",
+      "lastName": "Morgan",
+      "age": 14,
+      "birthday": "Thu Apr 12 1984",
+      "grade": 7,
+      "gender": "male",
+      "email": "maddoxsexton@gmail.com",
+      "phone": "+1 (885) 537-2566",
+      "address1": "773 King Street",
+      "address2": "",
+      "city": "Chelsea",
+      "state": "Colorado",
+      "zip": 1940,
+      "about": "Et do laboris non cupidatat cillum anim. Irure sunt fugiat proident sint officia deserunt est occaecat reprehenderit cupidatat. Veniam irure voluptate id aliquip reprehenderit reprehenderit ipsum pariatur id. Non quis do enim anim labore quis culpa nisi non. Non veniam anim officia duis nisi sunt voluptate veniam dolore eu do. In laborum nisi laborum in velit sint tempor.\r\n",
+      "guardian1": "Stanley Morrow",
+      "guardian2": "Wanda Rasmussen",
+      "teacherId": 2,
+      "assigned": [
+        3
+      ]
+    },
+    {
+      "id": 3718,
+      "firstName": "Donavon",
+      "lastName": "Mitchell",
+      "age": 12,
+      "birthday": "Thu Apr 12 1984",
+      "grade": 6,
+      "gender": "male",
+      "email": "maddoxsexton@gmail.com",
+      "phone": "+1 (885) 537-2566",
+      "address1": "773 King Street",
+      "address2": "",
+      "city": "Chelsea",
+      "state": "Colorado",
+      "zip": 1940,
+      "about": "Et do laboris non cupidatat cillum anim. Irure sunt fugiat proident sint officia deserunt est occaecat reprehenderit cupidatat. Veniam irure voluptate id aliquip reprehenderit reprehenderit ipsum pariatur id. Non quis do enim anim labore quis culpa nisi non. Non veniam anim officia duis nisi sunt voluptate veniam dolore eu do. In laborum nisi laborum in velit sint tempor.\r\n",
+      "guardian1": "Stanley Morrow",
+      "guardian2": "Wanda Rasmussen",
+      "teacherId": 2,
+      "assigned": []
+    },
+    {
+      "id": 3720,
+      "firstName": "Nick",
+      "lastName": "Valentine",
+      "age": 15,
+      "birthday": "Thu Apr 12 1984",
+      "grade": 9,
+      "gender": "male",
+      "email": "maddoxsexton@gmail.com",
+      "phone": "+1 (885) 537-2566",
+      "address1": "773 King Street",
+      "address2": "",
+      "city": "Chelsea",
+      "state": "Colorado",
+      "zip": 1940,
+      "about": "Et do laboris non cupidatat cillum anim. Irure sunt fugiat proident sint officia deserunt est occaecat reprehenderit cupidatat. Veniam irure voluptate id aliquip reprehenderit reprehenderit ipsum pariatur id. Non quis do enim anim labore quis culpa nisi non. Non veniam anim officia duis nisi sunt voluptate veniam dolore eu do. In laborum nisi laborum in velit sint tempor.\r\n",
+      "guardian1": "Stanley Morrow",
+      "guardian2": "Wanda Rasmussen",
+      "teacherId": 2,
+      "assigned": [
+        2
+      ]
+    },
+    {
+      "id": 3719,
+      "firstName": "Gary",
+      "lastName": "Allan",
+      "age": 17,
+      "birthday": "Thu Apr 12 1984",
+      "grade": 11,
+      "gender": "male",
+      "email": "maddoxsexton@gmail.com",
+      "phone": "+1 (885) 537-2566",
+      "address1": "773 King Street",
+      "address2": "",
+      "city": "Chelsea",
+      "state": "Colorado",
+      "zip": 1940,
+      "about": "Et do laboris non cupidatat cillum anim. Irure sunt fugiat proident sint officia deserunt est occaecat reprehenderit cupidatat. Veniam irure voluptate id aliquip reprehenderit reprehenderit ipsum pariatur id. Non quis do enim anim labore quis culpa nisi non. Non veniam anim officia duis nisi sunt voluptate veniam dolore eu do. In laborum nisi laborum in velit sint tempor.\r\n",
+      "guardian1": "Stanley Morrow",
+      "guardian2": "Wanda Rasmussen",
+      "teacherId": 2,
+      "assigned": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 970,
+      "firstName": "Lowe",
+      "lastName": "Suarez",
+      "age": 9,
+      "birthday": "Fri Nov 13 1970",
+      "grade": 1,
+      "gender": "male",
+      "email": "lowesuarez@gmail.com",
+      "phone": "+1 (848) 596-2795",
+      "address1": "895 Linwood Street",
+      "address2": "",
+      "city": "Callaghan",
+      "state": "Indiana",
+      "zip": 8297,
+      "about": "Et aliquip est laboris duis sunt culpa minim esse labore occaecat irure. Ex cupidatat veniam eiusmod consectetur ad sit laboris sint velit ut. Consequat enim sit incididunt quis proident enim est ex ut laborum id. Exercitation ad mollit sint culpa non est commodo est. Duis tempor non qui officia aute pariatur. Cillum elit eu nisi fugiat deserunt mollit dolor qui ea aute anim.\r\n",
+      "guardian1": "Dotson Scott",
+      "guardian2": "Glenn Velez",
+      "teacherId": 1,
+      "assigned": [
+        1,
+        2
+      ]
+    }
+  ],
+  "Assignments": [
+    {
+      "id": 1,
+      "name": "Grammar Assignment 1",
+      "description": "This assignment will test the students grammar and punctuation skills.",
+      "type": "Writing",
+      "subType": "Sentences",
+      "Questions": [
+        "Candy taste sweet",
+        "I gonna get a new cat.",
+        "she like dogs",
+        "Me favorite coler is red"
+      ],
+      "Answers": [
+        "Candy tastes sweet.",
+        "I am going to get a new cat.",
+        "She likes dogs.",
+        "My favorite color is red."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Math Assignment 1",
+      "description": "This assignment will test the students counting and combining coins.",
+      "type": "Math",
+      "subType": "Counting",
+      "Questions": [
+        "5 Nickel, 2 Penny",
+        "2 Quarter",
+        "1 Dime, 1 Nickel"
+      ],
+      "Answers": [
+        "0.27",
+        "0.50",
+        "0.15"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Math Assignment 2",
+      "description": "This assessment will test the students ability to recognize US currency",
+      "type": "Math",
+      "subType": "Coin Recognition",
+      "Questions": [
+        "0.05",
+        "0.25",
+        "0.01"
+      ],
+      "Answers": [
+        "Nickel",
+        "Quarter",
+        "Penny"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Math Assignment 3",
+      "description": "This assignment will test the students counting and combining coins.",
+      "type": "Math",
+      "subType": "Counting",
+      "Questions": [
+        "2 Nickel, 2 Penny",
+        "1 Quarter, 2 Dime",
+        "1 Dime"
+      ],
+      "Answers": [
+        "0.12",
+        "0.45",
+        "0.10"
+      ]
+    }
+  ],
+  "Completed": [
+    {
+      "studentId": 970,
+      "assignmentId": 1,
+      "studentAnswers": [
+        "Candy taste sweets.",
+        "Im going get a new cat.",
+        "she like dogs.",
+        "My favorite coler is red"
+      ]
+    },
+    {
+      "studentId": 4281,
+      "assignmentId": 1,
+      "studentAnswers": [
+        "Candy tastes sweets.",
+        "Im gong get new kat.",
+        "he lik dog",
+        "ny favorite coler is rede"
+      ]
+    }
+  ]
+}

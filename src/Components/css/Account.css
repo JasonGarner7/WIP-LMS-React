@@ -1,0 +1,55 @@
+.account-page {
+  display: block;
+}
+.edit-img {
+  display: block;
+  text-align: center;
+
+}
+.account-img {
+  height: 150px;
+  width: auto;
+  margin: 20px auto 20px auto;
+  border: 3px solid silver;
+  border-radius: 50%;
+}
+.upload-img {
+  position: relative;
+  cursor: pointer;
+  top: 50px;
+  right: 35px;
+  height: 35px;
+  width: auto;
+  background-color: white;
+  border: 3px solid gainsboro;
+  border-radius: 5px;
+}
+.upload-img:hover {
+  border: 3px solid silver;
+  background-color: gainsboro;
+}
+.upload-img:active {
+  border: 3px solid darkgray;
+  background-color: darkgray;
+}
+.account-change-button{
+  width: 100px;
+  margin-left: 10px;
+  background-color: rgb(201, 206, 211) !important;
+  cursor: not-allowed !important;
+}
+.account-change-button-changed {
+  width: 100px;
+  margin-left: 10px;
+}
+.input-group-prepend{
+  width: 15%;
+  min-width: 100px;
+}
+.input-group-text{
+  border-radius: 0px !important;
+  width: 100%;
+}
+.form-control{
+  border-radius: 0px !important;
+}

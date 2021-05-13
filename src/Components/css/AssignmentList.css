@@ -1,0 +1,50 @@
+.assignment-list {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    left: 215px;
+    height: 80%;
+    width: 75%;
+    margin: 15px;
+    overflow-y: scroll;
+}
+@media screen and (max-width: 920px){
+    .assignment-list {
+        width: 65%;
+    }
+}
+.assignment-list-item {
+    border: solid 2px lightgray;
+    margin-bottom: 15px;
+}
+.assignment-list-item:hover {
+    border: solid 2px darkgray;
+}
+.assignment-list-item:active {
+    background-color: gainsboro;
+}
+.assignment-name {
+    color: dimgray;
+    font-size: 20px;
+    padding: 10px;
+    border-bottom: solid 2px lightgray;
+}
+.delete-assignment {
+    position: absolute;
+    height: 20px;
+    margin-top: 15px;
+    right: 25px;
+    border-radius: 5px;
+}
+.delete-assignment:hover {
+    background-color: gainsboro;
+}
+.delete-assignment:active {
+    background-color: lightgray;
+}
+.assignment-description {
+    color: dimgray;
+    height: 100px;
+    padding: 10px;
+    margin-right: 150px;
+}
