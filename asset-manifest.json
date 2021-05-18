@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0076eae5.chunk.css",
-    "main.js": "/static/js/main.9e097fc1.chunk.js",
-    "main.js.map": "/static/js/main.9e097fc1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6640797.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6640797.js.map",
-    "static/js/2.599e102b.chunk.js": "/static/js/2.599e102b.chunk.js",
-    "static/js/2.599e102b.chunk.js.map": "/static/js/2.599e102b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.0076eae5.chunk.css.map": "/static/css/main.0076eae5.chunk.css.map",
-    "static/js/2.599e102b.chunk.js.LICENSE.txt": "/static/js/2.599e102b.chunk.js.LICENSE.txt",
-    "static/media/SE.92f9a661.png": "/static/media/SE.92f9a661.png",
-    "static/media/arwen.6c2efbf2.png": "/static/media/arwen.6c2efbf2.png",
-    "static/media/delete.ab390e17.png": "/static/media/delete.ab390e17.png",
-    "static/media/photo.ab6f8b57.png": "/static/media/photo.ab6f8b57.png"
+    "main.css": "/WIP-LMS-React/static/css/main.0076eae5.chunk.css",
+    "main.js": "/WIP-LMS-React/static/js/main.9e097fc1.chunk.js",
+    "main.js.map": "/WIP-LMS-React/static/js/main.9e097fc1.chunk.js.map",
+    "runtime-main.js": "/WIP-LMS-React/static/js/runtime-main.b2c4d190.js",
+    "runtime-main.js.map": "/WIP-LMS-React/static/js/runtime-main.b2c4d190.js.map",
+    "static/js/2.599e102b.chunk.js": "/WIP-LMS-React/static/js/2.599e102b.chunk.js",
+    "static/js/2.599e102b.chunk.js.map": "/WIP-LMS-React/static/js/2.599e102b.chunk.js.map",
+    "index.html": "/WIP-LMS-React/index.html",
+    "static/css/main.0076eae5.chunk.css.map": "/WIP-LMS-React/static/css/main.0076eae5.chunk.css.map",
+    "static/js/2.599e102b.chunk.js.LICENSE.txt": "/WIP-LMS-React/static/js/2.599e102b.chunk.js.LICENSE.txt",
+    "static/media/SE.92f9a661.png": "/WIP-LMS-React/static/media/SE.92f9a661.png",
+    "static/media/arwen.6c2efbf2.png": "/WIP-LMS-React/static/media/arwen.6c2efbf2.png",
+    "static/media/delete.ab390e17.png": "/WIP-LMS-React/static/media/delete.ab390e17.png",
+    "static/media/photo.ab6f8b57.png": "/WIP-LMS-React/static/media/photo.ab6f8b57.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6640797.js",
+    "static/js/runtime-main.b2c4d190.js",
     "static/js/2.599e102b.chunk.js",
     "static/css/main.0076eae5.chunk.css",
     "static/js/main.9e097fc1.chunk.js"
