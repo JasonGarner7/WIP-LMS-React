@@ -51,7 +51,7 @@ class API {
 
 
 const db = new API({
-  url: 'http://localhost:3004'
+  url: 'http://localhost:3000'
 })
 // const apiURL = 'http://localhost:3004';
 db.createEntity({
