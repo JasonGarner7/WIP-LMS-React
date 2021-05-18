@@ -1,0 +1,46 @@
+.student-list {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    left: 215px;
+    height: 80%;
+    width: 75%;
+    min-width: 900px;
+    margin: 15px;
+    overflow-y: scroll;
+}
+
+.student-list-headers {
+    border-bottom: solid 2px gray;
+}
+
+.student-row {
+    border: solid 2px transparent;
+    cursor: pointer;
+}
+
+.student-row:hover {
+    border-left: solid 3px lightgray;
+}
+
+.student-row:active {
+    background-color: gainsboro;
+}
+.delete-student-list-view {
+    position: absolute;
+    height: 20px;
+    right: 10px;
+    border-radius: 5px;
+}
+
+.delete-student-list-view:hover,
+.student-assignments-list-view:hover {
+    background-color: lightgray;
+}
+
+.student-assignments-list-view {
+    position: absolute;
+    height: 20px;
+    right: 40px;
+    border-radius: 5px;
+}

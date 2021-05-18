@@ -1,0 +1,12 @@
+.files {
+    padding-top: 10px;
+}
+.go-back {
+    cursor: pointer;
+    color:slategray;
+    margin: 10px;
+
+}
+.files-content {
+    margin-left: 10px;
+}

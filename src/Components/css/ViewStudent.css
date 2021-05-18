@@ -1,0 +1,112 @@
+.dialog {
+    position: absolute;
+    width: 95%;
+    height: 90%;
+    min-width: 900px;
+    min-height: 675px;
+    top: 40px;
+    left: 50px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.title {
+    position: inherit;
+    font-size: 25px;
+    color: dimgray;
+    top: 5px;
+    left: 5px;
+    padding: 1%;
+}
+
+.delete-student {
+    position: absolute;
+    height: 20px;
+    margin-top: 5px;
+    right: 25px;
+    border-radius: 5px;
+}
+.delete-student:hover {
+    background-color: gainsboro;
+}
+.delete-student:active {
+    background-color: lightgray;
+}
+
+.student-info {
+    position: inherit;
+    color: slategray;
+    margin-left: 50px;
+    margin-top: 75px;
+}
+
+.form-cancel {
+    position: inherit;
+    bottom: 25px;
+    right: 25px;
+    line-height: 50px;
+    width: 100px;
+    margin: 10px;
+}
+
+.form-delete {
+    float: right;
+    position: inherit;
+    cursor: pointer;
+    top: 25px;
+    right: 25px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    width: 100px;
+    border: 2px solid darkgray;
+    border-radius: 50px;
+    background-color: rgb(248, 51, 67);
+    margin-right: 10px;
+}
+
+.form-delete:hover {
+    background-color: red;
+}
+
+.form-delete:active {
+    background-color: red;
+}
+
+.form-submit {
+    position: inherit;
+    bottom: 25px;
+    right: 150px;
+    width: 100px;
+    background-color: rgb(201, 206, 211) !important;
+    margin: 10px;
+    cursor: not-allowed !important;
+}
+.form-submit-changed {
+    position: inherit;
+    bottom: 25px;
+    right: 150px;
+    width: 100px;
+    margin: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+    .dialog {
+        width: 90%;
+        height: 90%;
+    }
+}
+
+div#studentInfo form {
+    width: 98%;
+    margin-right: auto;
+}
+
+div#studentInfo .input-group-prepend {
+    width: 25%;
+}
+
+div#studentInfo .input-group-text {
+    border-radius: 0px !important;
+    width: 100%;
+}
