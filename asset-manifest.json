@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WIP-LMS-React/static/css/main.0076eae5.chunk.css",
-    "main.js": "/WIP-LMS-React/static/js/main.9e097fc1.chunk.js",
-    "main.js.map": "/WIP-LMS-React/static/js/main.9e097fc1.chunk.js.map",
+    "main.js": "/WIP-LMS-React/static/js/main.f5590e88.chunk.js",
+    "main.js.map": "/WIP-LMS-React/static/js/main.f5590e88.chunk.js.map",
     "runtime-main.js": "/WIP-LMS-React/static/js/runtime-main.b2c4d190.js",
     "runtime-main.js.map": "/WIP-LMS-React/static/js/runtime-main.b2c4d190.js.map",
     "static/js/2.599e102b.chunk.js": "/WIP-LMS-React/static/js/2.599e102b.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b2c4d190.js",
     "static/js/2.599e102b.chunk.js",
     "static/css/main.0076eae5.chunk.css",
-    "static/js/main.9e097fc1.chunk.js"
+    "static/js/main.f5590e88.chunk.js"
   ]
 }
