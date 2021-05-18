@@ -1,5 +1,6 @@
 {
   "name": "special-education-app",
+  "homepage": "https://jasongarner7.github.io/WIP-LMS-React/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +13,6 @@
     "cors": "^2.8.5",
     "file-system": "^2.2.2",
     "gh-pages": "^3.1.0",
-    "homepage": "https://jasongarner7.github.io/WIP-LMS-React/",
     "jsonfile": "^6.1.0",
     "mysql": "^2.18.1",
     "react": "^17.0.1",
